@@ -1,0 +1,23 @@
+{
+  "name": "api-for-social-net",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScalexanderB/API-for-social-net.git"
+  },
+  "author": "Scott Bradley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ScalexanderB/API-for-social-net/issues"
+  },
+  "homepage": "https://github.com/ScalexanderB/API-for-social-net#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^5.13.13"
+  }
+}

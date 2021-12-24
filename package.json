@@ -18,6 +18,7 @@
   "homepage": "https://github.com/ScalexanderB/API-for-social-net#readme",
   "dependencies": {
     "express": "^4.17.2",
-    "mongoose": "^5.13.13"
+    "mongoose": "^5.13.13",
+    "node": "^17.3.0"
   }
 }
